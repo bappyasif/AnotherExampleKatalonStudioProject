@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_concat(Your search for   W</name>
+   <tag></tag>
+   <elementGuidId>c1901dbe-5e52-4478-a4e6-e4f78a45817d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='MainContent']/div/div/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product__image lazyautosizes lazyloaded</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>//cdn.shopify.com/s/files/1/0098/3980/4516/products/Screen_Shot_2019-07-12_at_1.30.40_PM_150x150.png?v=1562963488</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-widths</name>
+      <type>Main</type>
+      <value>[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-aspectratio</name>
+      <type>Main</type>
+      <value>2.0778443113772456</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-sizes</name>
+      <type>Main</type>
+      <value>auto</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Waygreen.com</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-srcset</name>
+      <type>Main</type>
+      <value>//cdn.shopify.com/s/files/1/0098/3980/4516/products/Screen_Shot_2019-07-12_at_1.30.40_PM_180x.png?v=1562963488 180w, //cdn.shopify.com/s/files/1/0098/3980/4516/products/Screen_Shot_2019-07-12_at_1.30.40_PM_360x.png?v=1562963488 360w, //cdn.shopify.com/s/files/1/0098/3980/4516/products/Screen_Shot_2019-07-12_at_1.30.40_PM_540x.png?v=1562963488 540w, //cdn.shopify.com/s/files/1/0098/3980/4516/products/Screen_Shot_2019-07-12_at_1.30.40_PM_720x.png?v=1562963488 720w, //cdn.shopify.com/s/files/1/0098/3980/4516/products/Screen_Shot_2019-07-12_at_1.30.40_PM_900x.png?v=1562963488 900w, //cdn.shopify.com/s/files/1/0098/3980/4516/products/Screen_Shot_2019-07-12_at_1.30.40_PM_1080x.png?v=1562963488 1080w, //cdn.shopify.com/s/files/1/0098/3980/4516/products/Screen_Shot_2019-07-12_at_1.30.40_PM_1296x.png?v=1562963488 1296w, //cdn.shopify.com/s/files/1/0098/3980/4516/products/Screen_Shot_2019-07-12_at_1.30.40_PM_1512x.png?v=1562963488 1512w, //cdn.shopify.com/s/files/1/0098/3980/4516/products/Screen_Shot_2019-07-12_at_1.30.40_PM_1728x.png?v=1562963488 1728w, //cdn.shopify.com/s/files/1/0098/3980/4516/products/Screen_Shot_2019-07-12_at_1.30.40_PM_2048x.png?v=1562963488 2048w</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sizes</name>
+      <type>Main</type>
+      <value>205px</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>//cdn.shopify.com/s/files/1/0098/3980/4516/products/Screen_Shot_2019-07-12_at_1.30.40_PM_180x.png?v=1562963488 180w, //cdn.shopify.com/s/files/1/0098/3980/4516/products/Screen_Shot_2019-07-12_at_1.30.40_PM_360x.png?v=1562963488 360w, //cdn.shopify.com/s/files/1/0098/3980/4516/products/Screen_Shot_2019-07-12_at_1.30.40_PM_540x.png?v=1562963488 540w, //cdn.shopify.com/s/files/1/0098/3980/4516/products/Screen_Shot_2019-07-12_at_1.30.40_PM_720x.png?v=1562963488 720w, //cdn.shopify.com/s/files/1/0098/3980/4516/products/Screen_Shot_2019-07-12_at_1.30.40_PM_900x.png?v=1562963488 900w, //cdn.shopify.com/s/files/1/0098/3980/4516/products/Screen_Shot_2019-07-12_at_1.30.40_PM_1080x.png?v=1562963488 1080w, //cdn.shopify.com/s/files/1/0098/3980/4516/products/Screen_Shot_2019-07-12_at_1.30.40_PM_1296x.png?v=1562963488 1296w, //cdn.shopify.com/s/files/1/0098/3980/4516/products/Screen_Shot_2019-07-12_at_1.30.40_PM_1512x.png?v=1562963488 1512w, //cdn.shopify.com/s/files/1/0098/3980/4516/products/Screen_Shot_2019-07-12_at_1.30.40_PM_1728x.png?v=1562963488 1728w, //cdn.shopify.com/s/files/1/0098/3980/4516/products/Screen_Shot_2019-07-12_at_1.30.40_PM_2048x.png?v=1562963488 2048w</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;MainContent&quot;)/div[@class=&quot;grid grid--uniform&quot;]/div[@class=&quot;product grid__item medium-up--one-third small--one-half slide-up-animation animated&quot;]/div[@class=&quot;supports-js&quot;]/a[@class=&quot;product__image-wrapper&quot;]/img[@class=&quot;product__image lazyautosizes lazyloaded&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <value>//main[@id='MainContent']/div/div/div/a/img</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Your search for ', '&quot;', 'Waygreen', '&quot;', ' revealed the following:')])[1]/following::img[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/following::img[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Waygreen.com'])[1]/preceding::img[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <value>//img[@alt='Waygreen.com']</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <value>//main/div/div/div/a/img</value>
+   </webElementXpaths>
+</WebElementEntity>

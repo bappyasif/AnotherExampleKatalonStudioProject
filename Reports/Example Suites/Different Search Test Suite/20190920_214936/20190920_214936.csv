@@ -1,0 +1,22 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Different Search Test Suite,Chrome 76.0.3809.132,Search Attempts In Different Sites.,2019-09-20 21:49:37,2019-09-20 21:50:07,29.583s,PASSED
+,,,,,,
+Test Cases/Record Tests/Google Search Test Case,Chrome 76.0.3809.132,As Mentioned.,2019-09-20 21:49:38,2019-09-20 21:49:54,16.435s,PASSED
+"openBrowser("""")",Chrome 76.0.3809.132,,2019-09-20 21:49:38,2019-09-20 21:49:42,4.135s,PASSED
+"navigateToUrl(""https://www.google.com/?gws_rd=ssl"")",Chrome 76.0.3809.132,,2019-09-20 21:49:42,2019-09-20 21:49:44,2.221s,PASSED
+"setText(findTestObject(""Google Search/Page_Google/input_- _q""), ""Automation"")",Chrome 76.0.3809.132,,2019-09-20 21:49:44,2019-09-20 21:49:45,0.227s,PASSED
+"sendKeys(findTestObject(""Google Search/Page_Google/input_- _q""), Keys.chord(ENTER), CONTINUE_ON_FAILURE)",Chrome 76.0.3809.132,,2019-09-20 21:49:45,2019-09-20 21:49:47,2.125s,PASSED
+"click(findTestObject(""Google Search/Page_Automation - Google/div_Automation - Wikipedia""))",Chrome 76.0.3809.132,,2019-09-20 21:49:47,2019-09-20 21:49:50,3.740s,PASSED
+"click(findTestObject(""Google Search/Page_Automation - Wikipedia/a_Outline of automation""))",Chrome 76.0.3809.132,,2019-09-20 21:49:50,2019-09-20 21:49:52,1.194s,PASSED
+"click(findTestObject(""Google Search/Page_Outline of automation - Wikipe/span_Branches of automation""))",Chrome 76.0.3809.132,,2019-09-20 21:49:52,2019-09-20 21:49:52,0.175s,PASSED
+"click(findTestObject(""Google Search/Page_Outline of automation - Wikipe/a_Autonomous automation""))",Chrome 76.0.3809.132,,2019-09-20 21:49:52,2019-09-20 21:49:53,1.623s,PASSED
+closeBrowser(),Chrome 76.0.3809.132,,2019-09-20 21:49:53,2019-09-20 21:49:54,0.645s,PASSED
+,,,,,,
+Test Cases/Record Tests/Grizzly Domain Search Test Case,Chrome 76.0.3809.132,Searching GoldGrizly For Domain Names.,2019-09-20 21:49:54,2019-09-20 21:50:07,12.844s,PASSED
+"openBrowser("""")",Chrome 76.0.3809.132,,2019-09-20 21:49:54,2019-09-20 21:49:57,2.619s,PASSED
+"navigateToUrl(""https://goldgrizzly.com/"")",Chrome 76.0.3809.132,,2019-09-20 21:49:57,2019-09-20 21:49:59,1.850s,PASSED
+"setText(findTestObject(""Object Repository/GoldGrizzly Domain Name Search/Page_Gold Grizzly/input_Search_q""), ""Waygreen"")",Chrome 76.0.3809.132,,2019-09-20 21:49:59,2019-09-20 21:49:59,0.150s,PASSED
+"click(findTestObject(""Object Repository/GoldGrizzly Domain Name Search/Page_Waygreen  Gold Grizzly/button_Search""))",Chrome 76.0.3809.132,,2019-09-20 21:49:59,2019-09-20 21:50:00,0.955s,PASSED
+"click(findTestObject(""Object Repository/GoldGrizzly Domain Name Search/Page_Waygreen  Gold Grizzly/img_concat(Your search for   W""))",Chrome 76.0.3809.132,,2019-09-20 21:50:00,2019-09-20 21:50:05,5.360s,PASSED
+"click(findTestObject(""Object Repository/GoldGrizzly Domain Name Search/Page_Waygreen.com  Gold Grizzly/img_Check Out_HeaderLogo""))",Chrome 76.0.3809.132,,2019-09-20 21:50:05,2019-09-20 21:50:06,1.064s,PASSED
+closeBrowser(),Chrome 76.0.3809.132,,2019-09-20 21:50:06,2019-09-20 21:50:07,0.676s,PASSED
